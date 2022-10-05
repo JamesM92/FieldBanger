@@ -1,0 +1,12 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+XA1,Arduino_Nano_Socket,1,Arduino_Nano_Socket,
+SW9,SW_PUSH_6mm,1,SW_SPST,
+SW8,SW_PUSH_6mm,1,SW_SPST,
+SW7,SW_PUSH_6mm,1,SW_SPST,
+SW6,SW_PUSH_6mm,1,SW_SPST,
+SW5,SW_PUSH_6mm,1,SW_SPST,
+SW4,SW_PUSH_6mm,1,SW_SPST,
+SW3,SW_PUSH_6mm,1,SW_SPST,
+SW2,SW_PUSH_6mm,1,SW_SPST,
+SW1,SW_PUSH_6mm,1,SW_SPST,
+J1,RJ45_OST_PJ012-8P8CX_Vertical,1,8P8C,
